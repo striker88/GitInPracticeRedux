@@ -3,3 +3,4 @@
 possession of good source code, must be in want of a version control
 system." (@MikeMcQuaid)
 added by striker88
+technique 10
