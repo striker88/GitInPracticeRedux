@@ -1,2 +1,2 @@
 = Git In Practice
-The hotly separate branch anticipated sequel to Git Through Praxis.
+The hotly master branch anticipated sequel to Git Through Praxis.
