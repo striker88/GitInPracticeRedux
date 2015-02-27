@@ -2,3 +2,4 @@
 The hotly anticipated sequel to Git Through Praxis.
 add a line for tag  describe
 Welcome to GIP v0.1.1.
+line added for cherry command
