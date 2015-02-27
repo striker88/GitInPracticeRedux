@@ -3,3 +3,4 @@ The hotly master branch merge changes anticipated sequel to Git Through Praxis.
 The hotly anticipated sequel to Git Through Praxis.
 add a line for tag  describe
 Welcome to GIP v0.1.1.
+add for rest hard
